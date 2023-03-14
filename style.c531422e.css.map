@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,eACE,kBACF,CAEA,eACE,kBACF","file":"style.c531422e.css","sourceRoot":"..\\src","sourcesContent":[".backdownField {\n  margin-bottom: 20px;\n}\n\n.backdownInput {\n  margin-bottom: 10px;\n}\n"]}
